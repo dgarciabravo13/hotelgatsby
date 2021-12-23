@@ -13,7 +13,7 @@ const Footer = ({title}) => {
         <Navbar />
         <LinkToHome to="/">
           <Text as="h1" size="d_s_regular" color="white" centered>
-            V&A Consultores, S.L
+            Gatsby Hotel
           </Text>
         </LinkToHome>
       </div>
